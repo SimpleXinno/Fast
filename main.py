@@ -13,7 +13,7 @@ API_ID = 35458756
 API_HASH = 'eac538ffbeb1c5a039a9a9e6ff293149'
 BOT_TOKEN = '8817181082:AAHBLPFTrMczxj_cAvUf5xA9fIMupSTIyOk'
 ADMIN_ID = [6903379369]
-CHECKER_API_URL = 'https://web-production-3d364.up.railway.app/shopify?site=https://touch-of-finland.myshopify.com&cc=4147181445119641|04|2028|933&proxy='
+CHECKER_API_URL = 'https://api-v2-production-669b.up.railway.app/shopify?site=https://juniperandspruce.myshopify.com&cc=5285460131620610|05|2027|471&proxy='
 
 
 
